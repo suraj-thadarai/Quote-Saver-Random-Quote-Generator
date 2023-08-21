@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(246, 141, 130);
+}
+
+.quote-saver-form {
+  display: flex;
+  flex-direction: column;
+}/*# sourceMappingURL=styles.css.map */

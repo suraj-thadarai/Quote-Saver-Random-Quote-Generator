@@ -1,0 +1,10 @@
+$primary_color: rgb(246, 141, 130);
+
+body {
+    background-color: $primary_color;
+}
+
+.quote-saver-form {
+    display: flex;
+    flex-direction: column;
+}
